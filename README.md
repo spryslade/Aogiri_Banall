@@ -1,4 +1,4 @@
-# Ban All Bot
+# Aogiri-Ban all
 
 - This is a Sudo Based Members Banning Bot 
  
@@ -14,5 +14,4 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/BanAllBot)
 
 # Credits
-* [RiZoeL](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [S L A D E](https://github.com/spryslade)
